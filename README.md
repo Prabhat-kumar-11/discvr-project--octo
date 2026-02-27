@@ -24,7 +24,6 @@ User can:
 - Ask natural-language queries like:
   - "budget laptops"
   - "gaming under 80000"
-  - "premium mobile with camera"
 - See AI-filtered products with a short summary
 
 ---
@@ -53,5 +52,3 @@ Returns all products.
 Supports optional filters:
 - `?category=`
 - `?q=` (search in name, description, tags)
-
-Example:
