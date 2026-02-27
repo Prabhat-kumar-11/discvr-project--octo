@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import axios from "axios";
 import ProductCard from "./components/ProductCard";
 
-const API = "http://localhost:5000";
+const API = "https://discvr-project-octo.onrender.com";
 
 function App() {
   const [allProducts, setAllProducts] = useState([]);
